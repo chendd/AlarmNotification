@@ -1,6 +1,6 @@
 # AlarmNotification
-android 本地定时推送
-    具体使用见NotificationServiceUtil接口
+android 本地定时推送。
+    具体如下NotificationServiceUtil的接口
     
     /**
      * 设置定时推送
